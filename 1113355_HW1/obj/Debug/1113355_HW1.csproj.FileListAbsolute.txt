@@ -1,0 +1,10 @@
+C:\Users\apple\OneDrive\桌面\1113355_HW1\1113355_HW1\bin\Debug\1113355_HW1.exe.config
+C:\Users\apple\OneDrive\桌面\1113355_HW1\1113355_HW1\bin\Debug\1113355_HW1.exe
+C:\Users\apple\OneDrive\桌面\1113355_HW1\1113355_HW1\bin\Debug\1113355_HW1.pdb
+C:\Users\apple\OneDrive\桌面\1113355_HW1\1113355_HW1\obj\Debug\1113355_HW1.csproj.AssemblyReference.cache
+C:\Users\apple\OneDrive\桌面\1113355_HW1\1113355_HW1\obj\Debug\MortgageCalculator.Form1.resources
+C:\Users\apple\OneDrive\桌面\1113355_HW1\1113355_HW1\obj\Debug\_1113355_HW1.Properties.Resources.resources
+C:\Users\apple\OneDrive\桌面\1113355_HW1\1113355_HW1\obj\Debug\1113355_HW1.csproj.GenerateResource.cache
+C:\Users\apple\OneDrive\桌面\1113355_HW1\1113355_HW1\obj\Debug\1113355_HW1.csproj.CoreCompileInputs.cache
+C:\Users\apple\OneDrive\桌面\1113355_HW1\1113355_HW1\obj\Debug\1113355_HW1.exe
+C:\Users\apple\OneDrive\桌面\1113355_HW1\1113355_HW1\obj\Debug\1113355_HW1.pdb
